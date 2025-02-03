@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rakeshrajput537
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🔭 I’m currently working on Mobile Apps.
+- 👀 I’m interested in new Ideas.
+- 🌱 I’m currently learning KMM, Jetpack compose and Android development.
+- 💞️ I’m looking to collaborate on Projects. 
 - 📫 My contact: rakeshrajput537@gmail.com
 - 📞 mobile: 8115821225
 
